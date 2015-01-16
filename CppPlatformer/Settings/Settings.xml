@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Fonts>
+    <Font name="calibi.tff" path="..\\Assets\\Fonts"></Font>
+  </Fonts>
+  <Textures>
+    <Texture name="" path="..\\Assets"></Texture>
+  </Textures>
+  <Animations>
+    <Animation name="" texture="" frames="" framerate=""></Animation>
+  </Animations>
+  <Keys>
+    <key name="Up" value="W"></key>
+    <key name="Left" value="A"></key>
+    <key name="Down" value="S"></key>
+    <key name="Right" value="D"></key>
+    <key name="Jump" value="Space"></key>
+    <key name="Reset" value="R"></key>
+    <key name="Exit" value="Escape"></key>
+    <key name="Enter" value="Return"></key>
+  </Keys>
+</Config>
